@@ -1,7 +1,7 @@
-### <Olá>
+### < Olá />
 ✨ Sou a Ledi e seja bem vind@ ao meu perfil! ✨
 
-**Estudante Front End na Laboratoria** <br/>
+**Graduanda da 6ª geração da Laboratoria** <br/>
 
  <!--<div>
   <a href="https://github.com/ledi-mach">
@@ -9,8 +9,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledi-mach&layout=compact&langs_count=7&theme=monokai"/>
 </div>-->
 
-Bióloga especialista em desenvolvimento sustentável por formação e estudante de química por 2 anos, até que tive meu contato com a programação e vi nela a junção de duas áreas que gosto e me identifico muito: exatas e tecnológica. <br/>
-Infelizmente, uma programadora chocólatra que não gosta de café.
+ Bióloga especialista em sustentabilidade por formação e estudante de química por 2 anos, quando tive meu contato com a programação e vi nela a junção de duas áreas que gosto e me identifico muito: exatas e tecnológica. <br/> 
 
 
  ### Linguagens e ferramentas:
@@ -19,7 +18,7 @@ Infelizmente, uma programadora chocólatra que não gosta de café.
    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="HTML 5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-   <!--<img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">-->
+   <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
