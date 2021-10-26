@@ -12,7 +12,7 @@
  Bióloga especialista em sustentabilidade por formação e estudante de química por 2 anos, quando tive meu contato com a programação e vi nela a junção de duas áreas que gosto e me identifico muito: exatas e tecnológica. <br/> 
 
 
- ### Linguagens e ferramentas:
+ **Linguagens e ferramentas:**
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
