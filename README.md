@@ -1,16 +1,18 @@
 ### < Olá />
-✨ Sou a Ledi e seja bem vind@ ao meu perfil! ✨
 
-**Graduanda da 6ª geração da Laboratoria** <br/>
+**Sou a Ledi e seja bem vind@ ao meu perfil!**
+
+👩‍🎓 Graduada na 6ª geração da Laboratoria <br />
+👩‍💻 Desenvolvedora Front End Junior <br />
+💻 Ampliando conhecimentos em JavaScript, React, Node.js e responsividade <br />
+✔️ Maior domínio em Vanilla JavaScript e React, mas aberta a novos aprendizados <br />
+✨ Adoro conversar e ficaria super feliz com suas observações! <br />
 
  <!--<div>
   <a href="https://github.com/ledi-mach">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ledi-mach&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledi-mach&layout=compact&langs_count=7&theme=monokai"/>
 </div>-->
-
- Bióloga especialista em sustentabilidade por formação e estudante de química por 2 anos, quando tive meu contato com a programação e vi nela a junção de duas áreas que gosto e me identifico muito: exatas e tecnológica. <br/> 
-
 
  **Linguagens e ferramentas:**
 <div style="display: inline_block">
