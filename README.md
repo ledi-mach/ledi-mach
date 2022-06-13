@@ -5,13 +5,21 @@
 👩‍🎓 Graduada na 6ª geração da Laboratoria. <br />
 👩‍💻 Desenvolvedora Front End Junior. <br />
 💻 Ampliando conhecimentos em Typescript, React, Next e responsividade. <br />
-💬 Adoro conversar e ficaria super feliz com suas observações! <br />
 
- <!--<div>
+<!--  <div align="center">
   <a href="https://github.com/ledi-mach">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ledi-mach&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledi-mach&layout=compact&langs_count=7&theme=monokai"/>
-</div>-->
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ledi-mach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledi-mach&layout=compact&langs_count=7&theme=dracula"/>
+</div> -->
+
+<!-- <div align="center">
+  <a href="https://github.com/mayarabezerra">
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ledi-mach&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledi-mach&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+</div> -->
 
 
  **Linguagens e ferramentas:**
@@ -48,3 +56,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
