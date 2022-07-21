@@ -3,7 +3,7 @@
 **Sou a Ledi e seja bem vind@ ao meu perfil!**
 
 👩‍🎓 Graduada na 6ª geração da Laboratoria. <br />
-👩‍💻 Desenvolvedora Front End Junior. <br />
+👩‍💻 Desenvolvedora Front End. <br />
 💻 Ampliando conhecimentos em Typescript, React, Next e responsividade. <br />
 
 <!--  <div align="center">
