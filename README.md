@@ -1,6 +1,6 @@
 ### < Olá />
 
-**Sou a Ledi e seja bem vind@ ao meu perfil!**
+**Sou a Ledi e seja bem vinde**
 
 👩‍🎓 Graduada na 6ª geração da Laboratoria. <br />
 👩‍💻 Desenvolvedora Front End. <br />
