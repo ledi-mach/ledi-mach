@@ -1,10 +1,4 @@
-### < Olá />
-
-**Sou a Ledi e seja bem vinde**
-
-👩‍🎓 Graduada na 6ª geração da Laboratoria. <br />
-👩‍💻 Desenvolvedora Front End. <br />
-💻 Ampliando conhecimentos em Typescript, React, Next e responsividade. <br />
+###
 
 <!--  <div align="center">
   <a href="https://github.com/ledi-mach">
